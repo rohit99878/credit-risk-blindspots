@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: public
+    database: credit_risk_db
+    schema: public
+    tables:
+      - name: loans_raw
+        description: "Raw scored loan dataset from Python audit"
