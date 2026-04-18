@@ -1,7 +1,7 @@
 # Credit Risk Blind Spots
 ## How Data Quality Shapes Lending Decisions
 
-**Analyst:** Rohit Mendhekar  
+** Data Analyst:** Rohit Mendhekar  
 **Domain:** Consumer Credit | Data Quality Analytics  
 **Dataset:** Lending Club Accepted Loans 2007–2018  
 **Records Analysed:** 2.26M  
